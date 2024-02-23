@@ -1,0 +1,16 @@
+Aretoa 100%
+Bezeroa 100%
+Erosketa 97,1%
+Karteldegia 91,3%
+Pelikula 97,9%
+Saioa 98,2%
+Sarrera 96,9%
+Zinema 98,2%
+
+AretoaDao 94,9%
+BezeroaDao 96,1%
+ErosketaDao --%
+PelikulaDao 94,4%
+SaioaDao 48,1%
+SarreraDao 95,4%
+ZinemaDao 9,5%
